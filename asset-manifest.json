@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.14dfff09.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.5003d50c.js",
+    "static/js/680.9d927dff.chunk.js": "/goit-react-hw-08-phonebook/static/js/680.9d927dff.chunk.js",
+    "static/js/815.a2b2e478.chunk.js": "/goit-react-hw-08-phonebook/static/js/815.a2b2e478.chunk.js",
+    "static/js/643.2f70b159.chunk.js": "/goit-react-hw-08-phonebook/static/js/643.2f70b159.chunk.js",
+    "static/js/515.fd66149e.chunk.js": "/goit-react-hw-08-phonebook/static/js/515.fd66149e.chunk.js",
+    "static/js/50.130b6673.chunk.js": "/goit-react-hw-08-phonebook/static/js/50.130b6673.chunk.js",
+    "static/js/317.48bd9b7f.chunk.js": "/goit-react-hw-08-phonebook/static/js/317.48bd9b7f.chunk.js",
+    "static/js/182.b8d2c667.chunk.js": "/goit-react-hw-08-phonebook/static/js/182.b8d2c667.chunk.js",
+    "static/media/rainbow-bg.png": "/goit-react-hw-08-phonebook/static/media/rainbow-bg.bb45b28350ee21e18bc3.png",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.14dfff09.css.map": "/goit-react-hw-08-phonebook/static/css/main.14dfff09.css.map",
+    "main.5003d50c.js.map": "/goit-react-hw-08-phonebook/static/js/main.5003d50c.js.map",
+    "680.9d927dff.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/680.9d927dff.chunk.js.map",
+    "815.a2b2e478.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/815.a2b2e478.chunk.js.map",
+    "643.2f70b159.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/643.2f70b159.chunk.js.map",
+    "515.fd66149e.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/515.fd66149e.chunk.js.map",
+    "50.130b6673.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/50.130b6673.chunk.js.map",
+    "317.48bd9b7f.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/317.48bd9b7f.chunk.js.map",
+    "182.b8d2c667.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/182.b8d2c667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dfff09.css",
+    "static/js/main.5003d50c.js"
+  ]
+}

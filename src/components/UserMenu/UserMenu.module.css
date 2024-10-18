@@ -1,0 +1,30 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: auto;
+}
+
+.username {
+    font-weight: 700;
+}
+
+.logoutButton {
+    width: 100px;
+    color: white;
+    background-color: purple;
+    padding: 10px 0;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid white;
+    transition: all 500ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.logoutButton:hover {
+    background-color: white;
+    color: purple;
+    font-weight: bold;
+    transform: scale(1.05);
+    border: 1px solid purple;
+} 
